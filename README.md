@@ -1,3 +1,3 @@
 # Frontend Mentor - Tip calculator app
 
-![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
+![](https://github.com/AbrarKhalil26/Events/blob/main/design/desktop-preview.jpg)
